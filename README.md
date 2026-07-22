@@ -1,4 +1,4 @@
-Hi There I'm Jyoshnitha Reddy Vangala
+
 # Hi 👋, I'm Vangala Jyoshnitha Reddy
 
 ### 💻 Software Developer | Java Full Stack Developer
@@ -41,5 +41,5 @@ Developed a machine learning-based system for identifying and mapping mangrove e
 - Build impactful software solutions.
 
 ## 📫 Reach Me
-- LinkedIn: www.linkedin.com/in/jyoshnitha-reddy-vangala
+- LinkedIn: https://www.linkedin.com/in/jyoshnithareddy
 - GitHub: github.com/JyoshnithaReddy
